@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\метод крамера\метод крамера\source.cpp(49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Метод Крамера.vcxproj -> C:\Users\user\source\repos\Метод Крамера\Debug\Метод Крамера.exe
+  Метод Крамера.vcxproj -> C:\Users\user\source\repos\Метод Крамера\Debug\Метод Крамера.pdb (Partial PDB)
